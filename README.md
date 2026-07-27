@@ -1210,11 +1210,11 @@ This project can be used for:
 
 ### 📬 Contact Information
 
-📧 **Email:** your-email@example.com
+📧 **Email:** techhistoryfaculty@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/akj1729
 
-💻 **GitHub:** https://github.com/yourusername
+💻 **GitHub:** https://github.com/Aditya-Kant-Jha
 
 ---
 
