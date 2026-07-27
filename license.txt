@@ -1,0 +1,85 @@
+# 📜 License
+
+This project is licensed under the **MIT License**, one of the most widely used open-source software licenses. The MIT License allows developers, researchers, students, and organizations to freely use, modify, distribute, and build upon this project while preserving the original copyright notice and license.
+
+The primary goal of using the MIT License is to encourage learning, collaboration, and innovation by making the source code openly available to the community. Anyone can study the implementation, adapt it to their own requirements, contribute improvements, or use parts of the project in their own applications.
+
+---
+
+## ✅ Permissions
+
+The MIT License allows you to:
+
+- Use the project for personal or commercial purposes.
+- Copy and distribute the source code.
+- Modify and improve the project.
+- Publish your own versions.
+- Integrate the code into other software projects.
+- Use the project for research, education, or professional development.
+
+---
+
+## ⚠️ Conditions
+
+When redistributing or modifying this project, you must:
+
+- Include the original copyright notice.
+- Include the MIT License text with the project.
+- Clearly preserve the original license information.
+
+---
+
+## ❌ Limitations
+
+This software is provided **"AS IS"**, without any warranty or guarantee.
+
+The author is **not responsible** for:
+
+- Any software errors or bugs
+- Data loss
+- Security vulnerabilities
+- Financial losses
+- System failures
+- Any damages resulting from the use or misuse of this project
+
+Users are responsible for testing the software before deploying it in production environments.
+
+---
+
+## 🔒 Responsible Use
+
+This project was developed for:
+
+- Educational purposes
+- Academic learning
+- Machine Learning practice
+- Natural Language Processing research
+- Cybersecurity awareness
+- Phishing email detection research
+
+Although the system achieves **98.43% accuracy** using the Random Forest algorithm, it should be considered an **AI-assisted phishing detection tool** rather than a complete enterprise email security solution. Real-world email security systems often combine machine learning with additional mechanisms such as sender reputation analysis, domain verification, attachment scanning, URL reputation checks, and live threat intelligence.
+
+---
+
+## 📄 License Summary
+
+| Item | Details |
+|------|---------|
+| License | MIT License |
+| Author | Aditya Kant Jha |
+| Copyright | © 2026 Aditya Kant Jha |
+| Open Source | Yes |
+| Commercial Use | Allowed |
+| Modification | Allowed |
+| Distribution | Allowed |
+| Private Use | Allowed |
+| Warranty | Not Provided |
+| Liability | Not Accepted |
+
+---
+
+## ❤️ Acknowledgement
+
+If you use this project in your research, coursework, learning journey, or as a reference for your own implementation, a citation or acknowledgement is appreciated. Contributions, suggestions, and improvements are always welcome through GitHub Issues or Pull Requests.
+
+For complete license terms, please refer to the **LICENSE** file included in this repository.
